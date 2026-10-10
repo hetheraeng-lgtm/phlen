@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hethera-9264e"
+  },
+  "targets": {
+    "hethera-9264e": {
+      "hosting": {
+        "prod": [
+          "phlen-prod"
+        ]
+      }
+    }
+  }
+}
